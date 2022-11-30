@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Candroid Easter Egg is a set of hidden Easter Eggs for the Candroid framework/environment. It is designed to replace Android Easter Eggs, but not exactly the same way.
